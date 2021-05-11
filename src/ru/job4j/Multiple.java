@@ -2,7 +2,7 @@ package ru.job4j;
 
 public class Multiple {
     public static void main (String[] args){
-
+        System.out.println("1x0=0");
         System.out.println("1x1=1");
         System.out.println("1x2=2");
         System.out.println("1x3=3");
